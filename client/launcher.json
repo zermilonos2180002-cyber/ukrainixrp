@@ -1,0 +1,20 @@
+{
+  "launcherVersion": "11.02",
+  "maintenance": false,
+  "maintenanceMessage": "На сервере проводятся технические работы",
+  "autoRefreshDefault": true,
+  "refreshIntervalSeconds": 30,
+  "animationsEnabled": true,
+  "soundsEnabled": false,
+  "language": "ru",
+  "support": {
+    "telegram": "https://t.me/felixshop_bot",
+    "website": "https://t.me/felixshop_bot",
+    "forum": "https://t.me/felixshop_bot",
+    "technicalSupport": "https://t.me/felixshop_bot"
+  },
+  "manifestUrl": "https://cdn.yankyzzrp.ru/client/manifest.json",
+  "cacheBaseUrl": "https://perfect-mobile.ru/",
+  "newsUrl": "https://cdn.yankyzzrp.ru/client/News.json",
+  "modpacksCatalogUrl": "https://cdn.yankyzzrp.ru/client/sborka.json"
+}
