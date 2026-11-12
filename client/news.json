@@ -1,0 +1,20 @@
+[
+  {
+    "id": "launch-2026-10-04",
+    "title": "Добро пожаловать на FELIX SHOP!",
+    "description": "Подписка на FELIX SHOP ",
+    "date": "2026-10-04",
+    "pinned": true,
+    "imageUrl": "",
+    "url": ""
+  },
+  {
+    "id": "update-2026-10-03",
+    "title": "Скоро",
+    "description": "Совсем скоро в лаунчере появится установки сборки в 1 клик",
+    "date": "2026-10-03",
+    "pinned": false,
+    "imageUrl": "",
+    "url": ""
+  }
+]
