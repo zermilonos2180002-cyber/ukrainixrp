@@ -14,7 +14,7 @@
     "technicalSupport": "https://t.me/felixshop_bot"
   },
   "manifestUrl": "https://github.com/zermilonos2180002-cyber/ukrainixrp/blob/main/client/manifest.json",
-  "cacheBaseUrl": "https://perfect-mobile.ru/",
+  "cacheBaseUrl": "https://huggingface.co/datasets/ukrainixrp/ukrainixrp/resolve/main/",
   "newsUrl": "https://raw.githubusercontent.com/zermilonos2180002-cyber/ukrainixrp/refs/heads/main/client/News.json",
   "modpacksCatalogUrl": "https://raw.githubusercontent.com/zermilonos2180002-cyber/ukrainixrp/refs/heads/main/client/sborka.json"
 }
