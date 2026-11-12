@@ -1,13 +1,6 @@
 [
     {
         "date": 16,
-        "hash": "3453316259",
-        "name": "launcher.apk",
-        "path": "",
-        "size": 93339314
-    },
-    {
-        "date": 16,
         "hash": "2771220407",
         "name": "common.bpc",
         "path": "files/",
